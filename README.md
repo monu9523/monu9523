@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **Email: singhroshni3211@gmail.com - LinkedIn: [roshni-singh-a06967291](https://www.linkedin.com/in/roshni-singh-a06967291)**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1loodrYGT6i_D9iGAVd3GfxrQ-xnK32So/view?usp=sharing](https://drive.google.com/file/d/1loodrYGT6i_D9iGAVd3GfxrQ-xnK32So/view?usp=sharing)
+
 - ⚡ Fun fact **I started coding with C and now I'm falling in love with Java.**
 
 <h3 align="left">Connect with me:</h3>
